@@ -111,7 +111,7 @@ Mentoring
 * **Arash Ramezani**, *Verification of multi-structure targeting in chronic microelectrode brain recordings from CT scans*, Individual project, 22.5 hp, Master's programme in Cognitive Science, September 2019 – January 2020.
 <br/>
 
-*Students on short projects where I was Statistical Supervisor/Responsible for Data Analysis:*
+*The following projects were completed under the official main supervision of Per Petersson, with me performing a minor role as surrogate mentor responsible for data analysis/statistical supervision:*
 
 * **Patricia Maria Przibylla**, *GABAergic corticostriatal projections and the role they take in levodopa-induced dyskinesia*, Master's thesis, Johannes Gutenberg-Universität Mainz Germany, October 2021 – October 2022.
 
