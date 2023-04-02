@@ -133,6 +133,8 @@ Service and Leadership
 
 *I was part of the Organizing Committee for:*
 
+* **SWEBAGS Conference 2022**, Zoom/Sweden, 2022
+
 * **SWEBAGS Conference 2021**, Zoom/Sweden, 2021
 <br/>
 
