@@ -3,7 +3,7 @@ title: "Evoked Phase Coherence as a Biomarker for Adaptive Neuromodulation in a 
 collection: talks
 type: "Poster presentation"
 permalink: /talks/2023-ibags
-venue: "IBAGS 2023"
+venue: "IBAGS XIV"
 date: 2023-06-16
 location: "Stockholm, Sweden"
 ---
