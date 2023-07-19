@@ -113,6 +113,8 @@ Mentoring
 
 *The following projects were completed under the official main supervision of Per Petersson, with me performing a minor role as surrogate mentor responsible for data analysis/statistical supervision:*
 
+* **Brais Gómez Barros**, *Corticostriatal plasticity in Parkinson’s disease and Levodopa induced dyskinesia*, Final Degree Project (12ECTS) for Degree in Biotechnology (University of Barcelona), February 2023 – July 2023.
+
 * **Emilia Henriksson**, *Optogenetic excitation of fast spiking inhibitory interneurons during Parkinson's disease and Levodopa induced dyskinesia*, Master thesis project (30ECTS) for Master’s degree in Biomedicine, January 2023 – June 2023.
 
 * **Patricia Maria Przibylla**, *GABAergic corticostriatal projections and the role they take in levodopa-induced dyskinesia*, Master's thesis, Johannes Gutenberg-Universität Mainz Germany, October 2021 – October 2022.
