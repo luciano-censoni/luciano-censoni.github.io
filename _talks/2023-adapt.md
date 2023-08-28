@@ -8,4 +8,4 @@ date: 2023-08-26
 location: "Rungsted, Denmark"
 ---
 
-**Authors**: L. Zachrisson\#, **L. Censoni**\#\*, S. Barrientos, C. Astudillo, A. Ronaghi, R. Fuentes and P. Petersson (\*Presenting author; \#These authors contributed equally to this work)
+**Authors**: L. Zachrisson^{\#}, **L. Censoni**^{\#}\*, S. Barrientos, C. Astudillo, A. Ronaghi, R. Fuentes and P. Petersson (\*Presenting author; ^{\#}These authors contributed equally to this work)
