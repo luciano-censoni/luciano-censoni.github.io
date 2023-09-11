@@ -1,5 +1,5 @@
 ---
-title: "Evoked Phase Coherence as a Biomarker for Adaptive Neuromodulation in a Rat Model of Parkinson's Disease"
+title: "Evoked Phase Coherence as a biomarker for adaptive neuromodulation in a rat model of Parkinson's disease"
 collection: talks
 type: "Poster presentation"
 permalink: /talks/2023-adapt
