@@ -100,7 +100,7 @@ Mentoring
 
 *Students I had the opportunity to mentor during short projects and Master’s theses. The following projects were completed under the official main supervision of Per Petersson, but with me performing a major role as surrogate mentor in direct contact with the students:*
 
-* **Love Zachrisson**, *(ongoing)*, Master Thesis, 30 hp, Master’s programme in Cognitive Science, 2022. 
+* **Love Zachrisson**, Evoked phase coherence as a biomarker for adaptive neuromodulation in rat model of Parkinson’s disease, Master's Thesis, 30 hp, Master’s programme in Cognitive Science, January 2022 – March 2023.
 
 * **Love Zachrisson**, *Electrophysiological analysis in 6-OHDA marmoset during Levodopa-Induced Dyskinesia*, Individual project II, 15 hp, Master's programme in Cognitive Science, September 2021 – January 2022.
 
