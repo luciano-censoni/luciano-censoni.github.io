@@ -9,3 +9,5 @@ location: "Leiden, The Netherlands"
 ---
 
 **Authors**: T. L. Stan, A. Ronaghi, S. Barrientos, P. Halje, **L. Censoni**\*, E. G. Martínez, E. Malinina, K. Sahlholm and P. Petersson (\*Presenting author)
+
+My trip to present a seminar at LUMC was supported with a generous 7500 SEK travel grant from JC Kempes Minnes Akademiska Forskningsfond.
