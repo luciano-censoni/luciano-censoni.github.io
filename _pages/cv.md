@@ -13,7 +13,7 @@ Current and Previous Positions after Ph.D.
 ======
 
 * **Postdoctoral position, Per Petersson group**<br/>
-Department of Integrative Medical Biology, Umeå University, Feb. 2019 – present, Umeå, Sweden<br/>
+Department of Medical and Translational Biology, Umeå University, Feb. 2019 – present, Umeå, Sweden<br/>
 <br/>
 
 Education
