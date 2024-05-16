@@ -76,6 +76,9 @@ Teaching
 Professional Development
 =====
 
+* **Research Supervision Course at the Faculty of Medicine, Lund University**, 2023<br/>
+4 day online course aimed at defining the doctoral supervisor's role and responsibilities and developing greater confidence in the tasks of supervision. Upon completion of this course, I became eligible to be official co-supervisor of Ph.D. students at the Faculty of Medicine, Lund University.
+
 * **Neuromatch Academy 2020 - Interactive Track**, 2020<br/>
 3 week online summer school for Computational Neuroscience covering a broad range of topics such as Model Fitting, Dimensionality Reduction, Bayesian Statistics, Linear Systems, Optimal Control, Reinforcement Learning, Neuron models, Network Causality and Deep Learning.
 
