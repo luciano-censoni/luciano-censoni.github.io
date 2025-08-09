@@ -12,8 +12,11 @@ redirect_from:
 Current and Previous Positions after Ph.D.
 ======
 
+* **Postdoctoral position, Paolo Medini group**<br/>
+Department of Medical and Translational Biology, Umeå University, Jun. 2024 – present, Umeå, Sweden<br/>
+
 * **Postdoctoral position, Per Petersson group**<br/>
-Department of Medical and Translational Biology, Umeå University, Feb. 2019 – present, Umeå, Sweden<br/>
+Department of Medical and Translational Biology, Umeå University, Feb. 2019 – May 2024, Umeå, Sweden<br/>
 <br/>
 
 Education
@@ -75,6 +78,10 @@ Teaching
 
 Professional Development
 =====
+
+* **All-optical Control of Brain Functioning with Optogenetics and Multi-Photon Microscopy**, 2025<br/>
+59h comprehensive training course in all-optical neuronal manipulation held in March at the Institut de la Vision in
+Paris.
 
 * **Research Supervision Course at the Faculty of Medicine, Lund University**, 2023<br/>
 4 day online course aimed at defining the doctoral supervisor's role and responsibilities and developing greater confidence in the tasks of supervision. Upon completion of this course, I became eligible to be official co-supervisor of Ph.D. students at the Faculty of Medicine, Lund University.
@@ -139,6 +146,8 @@ Service and Leadership
 =====
 
 *I was part of the Organizing Committee for:*
+
+* **SWEBAGS Conference 2024**, Zoom/Sweden, 2024
 
 * **SWEBAGS Conference 2022**, Zoom/Sweden, 2022
 
