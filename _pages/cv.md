@@ -15,8 +15,11 @@ Current and Previous Positions after Ph.D.
 * **Postdoctoral position, Paolo Medini group**<br/>
 Department of Medical and Translational Biology, Umeå University, Jun. 2024 – present, Umeå, Sweden<br/>
 
+* **Staff Scientist, Per Petersson group**<br/>
+Department of Medical and Translational Biology, Umeå University, Jun. 2023 – May 2024, Umeå, Sweden<br/> 
+
 * **Postdoctoral position, Per Petersson group**<br/>
-Department of Medical and Translational Biology, Umeå University, Feb. 2019 – May 2024, Umeå, Sweden<br/>
+Department of Medical and Translational Biology, Umeå University, Feb. 2019 – May 2023, Umeå, Sweden<br/>
 <br/>
 
 Education
@@ -146,6 +149,8 @@ Service and Leadership
 =====
 
 *I was part of the Organizing Committee for:*
+
+* **SWEBAGS Conference 2024**, Zoom/Sweden, 2025
 
 * **SWEBAGS Conference 2024**, Zoom/Sweden, 2024
 
