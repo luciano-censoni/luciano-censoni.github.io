@@ -82,6 +82,9 @@ Teaching
 Professional Development
 =====
 
+* **Basic Course in Higher Education Pedagogy (GRU17)**, 2025<br/>
+Full graduate-level course focused on developing a professional and reflective approach to teaching at the university level, offered by UPL at Umeå University.
+
 * **All-optical Control of Brain Functioning with Optogenetics and Multi-Photon Microscopy**, 2025<br/>
 59h comprehensive training course in all-optical neuronal manipulation held in March at the Institut de la Vision in
 Paris.
